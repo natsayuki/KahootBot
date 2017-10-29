@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
-  name = 'kahootbot',
-  packages = ['kahootbot'], # this must be the same as the name above
+  name = 'KahootBot',
+  packages = ['KahootBot\.py'], # this must be the same as the name above
   version = '29.10.17',
   description = 'A bot to play kahoot for you',
   author = 'the42ndturtle',
