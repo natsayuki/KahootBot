@@ -76,5 +76,3 @@ def listen(event):
 
 
 kahoot = kahootObj(red, blue, green, yellow)
-kahoot.order = [green, green, yellow, blue]
-kahoot.start()
